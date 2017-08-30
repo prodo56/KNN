@@ -11,6 +11,6 @@ Images are split into training and testing sets. The first N images are used as 
 
 
 To execute the program:
-> python knn.py K D N PATH TO DATA
+> python knn.py K D N PATH/TO/DATA
 
 where D is the reduced dimension of data using PCA.
